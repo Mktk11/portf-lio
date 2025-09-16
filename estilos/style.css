@@ -76,7 +76,7 @@ section#main__section--card img.foto{
 }
 section#main__section--card h1{
   color: var(--destaque);
-  margin: 15px 0;
+  margin: 5px 0;
   font-size: 1.8em;
 }
 div#main__section--social{
@@ -103,8 +103,8 @@ div.main__section--projetos a{
   color: var(--texto);
 }
 section h3{
-  margin: 32px;
-  padding: 10px;
+  margin: 2px;
+  padding: 2px;
   font-size: 1.5em;
   color: var(--destaque);
 }
@@ -117,8 +117,8 @@ div.main__section--projetos img{
 }
 
 div.main__section--projetos{
-  margin: 30px;
-  padding: 10px;
+  margin: 0.5px;
+  padding: 0.5px;
 }
 div.main__section--projetos p{
   font-size: 1.5em;
